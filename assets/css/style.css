@@ -355,7 +355,7 @@ h6 {
 #hero .btn-get-started {
   font-size: 64px;
   transition: 0.5s;
-  color: #fff;
+  color: #636063;
   height: 60px;
 }
 
@@ -588,6 +588,8 @@ section {
   transition: 0.9s;
   background-color: #dd5a92;
 }
+
+
 
 /*--------------------------------------------------------------
 # Resume
